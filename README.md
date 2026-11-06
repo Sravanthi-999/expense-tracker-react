@@ -67,3 +67,14 @@ Every future push to the connected `main` branch will trigger a new deployment.
 - Data is specific to the browser and device. Clearing browser storage or using another device/browser will not carry the records over.
 - The sample transactions are demo data for the first launch. You can delete them and add your own.
 - Currency is currently set to INR in `src/App.jsx`. Change `currency: 'INR'` in the `money` formatter if needed.
+
+- ## Future Enhancements
+User authentication and personalized accounts
+Cloud database integration
+Monthly and yearly expense reports
+Data visualization using interactive charts
+Export expense reports to PDF or CSV
+Budget planning and spending limits
+Dark mode support
+Responsive improvements for mobile devices
+
