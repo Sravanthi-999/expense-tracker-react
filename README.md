@@ -78,3 +78,13 @@ Budget planning and spending limits
 Dark mode support
 Responsive improvements for mobile devices
 
+## Application Workflow
+Open the SpendWise application.
+View the expense dashboard.
+Add a new expense by entering the required details.
+View the updated expense summary.
+Search or filter expenses based on categories.
+View individual transaction details.
+Delete expenses when they are no longer needed.
+
+
